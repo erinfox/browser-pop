@@ -5,5 +5,5 @@ follow the begining instructions on [this](https://developer.chrome.com/extensio
 
 
 
-After any code changes, remember to refresh the extenation [here](chrome://extensions/) 
+After any code changes, remember to refresh the extension at chrome://extensions/ before trying it out again.
 
